@@ -2,3 +2,4 @@
 2.execute :helptags ~/.vim/doc for Linux and :helptags $/vim/vimfiles/doc for Windows
 3.install ctags if not exist
 4.copy _vimrc to ~/ for Linux and rename it as .vimrc; copy _vimrc to $HOMEPATH$ for Windows
+5.totorseGit:modified
